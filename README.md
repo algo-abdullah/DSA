@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abdullahmeen/DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/abdullahmeen/DSA/tree/main/0027-remove-element/) | Easy |
+| [0136-single-number](https://github.com/abdullahmeen/DSA/tree/main/0136-single-number/) | Easy |
 | [0189-rotate-array](https://github.com/abdullahmeen/DSA/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/abdullahmeen/DSA/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/abdullahmeen/DSA/tree/main/0283-move-zeroes/) | Easy |
@@ -48,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0136-single-number](https://github.com/abdullahmeen/DSA/tree/main/0136-single-number/) | Easy |
 | [0268-missing-number](https://github.com/abdullahmeen/DSA/tree/main/0268-missing-number/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |

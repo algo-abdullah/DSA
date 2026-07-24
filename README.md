@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0485-max-consecutive-ones](https://github.com/abdullahmeen/DSA/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0860-lemonade-change](https://github.com/abdullahmeen/DSA/tree/main/0860-lemonade-change/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/abdullahmeen/DSA/tree/main/0976-largest-perimeter-triangle/) | Easy |
+| [1470-shuffle-the-array](https://github.com/abdullahmeen/DSA/tree/main/1470-shuffle-the-array/) | Easy |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/abdullahmeen/DSA/tree/main/1491-average-salary-excluding-the-minimum-and-maximum-salary/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/abdullahmeen/DSA/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1929-concatenation-of-array](https://github.com/abdullahmeen/DSA/tree/main/1929-concatenation-of-array/) | Easy |

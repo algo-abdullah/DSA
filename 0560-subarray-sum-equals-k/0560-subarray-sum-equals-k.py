@@ -7,16 +7,14 @@ class Solution(object):
         """
         n = len(nums)
         count = 0
-        ps = [0] * n
-        ps[0] = nums[0]
-        for i in range(1,n):
-            ps[i] = ps[i-1]  + nums[i]
-        
+        prefix = 0
+
         m = {}
         for j in range(n):
-            if ps[j] == k:
+            prefix += nums[j]
+            if prefix == k:
                 count+=1
-            val = ps[j] - k
+            val = prefix - k
             count += m.get(val, 0)
-            m[ps[j]]= m.get(ps[j], 0) + 1
+            m[prefix]= m.get(prefix, 0) + 1
         return count

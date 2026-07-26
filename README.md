@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/abdullahmeen/DSA/tree/main/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abdullahmeen/DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/abdullahmeen/DSA/tree/main/0027-remove-element/) | Easy |
 | [0136-single-number](https://github.com/abdullahmeen/DSA/tree/main/0136-single-number/) | Easy |
@@ -50,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/abdullahmeen/DSA/tree/main/0001-two-sum/) | Easy |
 | [0268-missing-number](https://github.com/abdullahmeen/DSA/tree/main/0268-missing-number/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/abdullahmeen/DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## Binary Search

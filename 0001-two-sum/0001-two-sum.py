@@ -5,7 +5,7 @@ class Solution(object):
         :type target: int
         :rtype: List[int]
         """
-        res = [int]
+        
         numMap = {}
         for i,n in enumerate(nums):
             diff = target - n

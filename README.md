@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0976-largest-perimeter-triangle](https://github.com/abdullahmeen/DSA/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1470-shuffle-the-array](https://github.com/abdullahmeen/DSA/tree/main/1470-shuffle-the-array/) | Easy |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/abdullahmeen/DSA/tree/main/1491-average-salary-excluding-the-minimum-and-maximum-salary/) | Easy |
+| [1679-max-number-of-k-sum-pairs](https://github.com/abdullahmeen/DSA/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/abdullahmeen/DSA/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1929-concatenation-of-array](https://github.com/abdullahmeen/DSA/tree/main/1929-concatenation-of-array/) | Easy |
 | [2460-apply-operations-to-an-array](https://github.com/abdullahmeen/DSA/tree/main/2460-apply-operations-to-an-array/) | Easy |
@@ -37,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/abdullahmeen/DSA/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/abdullahmeen/DSA/tree/main/0283-move-zeroes/) | Easy |
 | [0392-is-subsequence](https://github.com/abdullahmeen/DSA/tree/main/0392-is-subsequence/) | Easy |
+| [1679-max-number-of-k-sum-pairs](https://github.com/abdullahmeen/DSA/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [2460-apply-operations-to-an-array](https://github.com/abdullahmeen/DSA/tree/main/2460-apply-operations-to-an-array/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -56,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/abdullahmeen/DSA/tree/main/0001-two-sum/) | Easy |
 | [0268-missing-number](https://github.com/abdullahmeen/DSA/tree/main/0268-missing-number/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/abdullahmeen/DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [1679-max-number-of-k-sum-pairs](https://github.com/abdullahmeen/DSA/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -72,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/abdullahmeen/DSA/tree/main/0268-missing-number/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/abdullahmeen/DSA/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/abdullahmeen/DSA/tree/main/1491-average-salary-excluding-the-minimum-and-maximum-salary/) | Easy |
+| [1679-max-number-of-k-sum-pairs](https://github.com/abdullahmeen/DSA/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/abdullahmeen/DSA/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## String
 | Problem Name | Difficulty |

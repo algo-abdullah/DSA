@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/abdullahmeen/DSA/tree/main/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abdullahmeen/DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/abdullahmeen/DSA/tree/main/0027-remove-element/) | Easy |
+| [0053-maximum-subarray](https://github.com/abdullahmeen/DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0136-single-number](https://github.com/abdullahmeen/DSA/tree/main/0136-single-number/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abdullahmeen/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/abdullahmeen/DSA/tree/main/0169-majority-element/) | Easy |
@@ -88,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/abdullahmeen/DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0392-is-subsequence](https://github.com/abdullahmeen/DSA/tree/main/0392-is-subsequence/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
@@ -129,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/abdullahmeen/DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/abdullahmeen/DSA/tree/main/0169-majority-element/) | Easy |
 ## Counting
 | Problem Name | Difficulty |

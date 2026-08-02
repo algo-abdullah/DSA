@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/abdullahmeen/DSA/tree/main/0002-add-two-numbers/) | Medium |
 | [0328-odd-even-linked-list](https://github.com/abdullahmeen/DSA/tree/main/0328-odd-even-linked-list/) | Medium |
 ## Array
 | Problem Name | Difficulty |
@@ -50,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/abdullahmeen/DSA/tree/main/0002-add-two-numbers/) | Medium |
 | [0189-rotate-array](https://github.com/abdullahmeen/DSA/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/abdullahmeen/DSA/tree/main/0268-missing-number/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/abdullahmeen/DSA/tree/main/0976-largest-perimeter-triangle/) | Easy |
@@ -144,4 +146,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/abdullahmeen/DSA/tree/main/0169-majority-element/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0002-add-two-numbers](https://github.com/abdullahmeen/DSA/tree/main/0002-add-two-numbers/) | Medium |
 <!---LeetCode Topics End-->

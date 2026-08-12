@@ -112,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/abdullahmeen/DSA/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0125-valid-palindrome](https://github.com/abdullahmeen/DSA/tree/main/0125-valid-palindrome/) | Easy |
 | [0392-is-subsequence](https://github.com/abdullahmeen/DSA/tree/main/0392-is-subsequence/) | Easy |
+| [1021-remove-outermost-parentheses](https://github.com/abdullahmeen/DSA/tree/main/1021-remove-outermost-parentheses/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -128,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/abdullahmeen/DSA/tree/main/0020-valid-parentheses/) | Easy |
 | [0094-binary-tree-inorder-traversal](https://github.com/abdullahmeen/DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/abdullahmeen/DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [1021-remove-outermost-parentheses](https://github.com/abdullahmeen/DSA/tree/main/1021-remove-outermost-parentheses/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -183,4 +185,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/abdullahmeen/DSA/tree/main/0020-valid-parentheses/) | Easy |
+| [1021-remove-outermost-parentheses](https://github.com/abdullahmeen/DSA/tree/main/1021-remove-outermost-parentheses/) | Easy |
 <!---LeetCode Topics End-->

@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/abdullahmeen/DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/abdullahmeen/DSA/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/abdullahmeen/DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0118-pascals-triangle](https://github.com/abdullahmeen/DSA/tree/main/LeetCode/Easy/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abdullahmeen/DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/abdullahmeen/DSA/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0136-single-number](https://github.com/abdullahmeen/DSA/tree/main/0136-single-number/) | Easy |
@@ -120,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/abdullahmeen/DSA/tree/main/0053-maximum-subarray/) | Medium |
+| [0118-pascals-triangle](https://github.com/abdullahmeen/DSA/tree/main/LeetCode/Easy/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abdullahmeen/DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0392-is-subsequence](https://github.com/abdullahmeen/DSA/tree/main/0392-is-subsequence/) | Easy |
 ## String Matching

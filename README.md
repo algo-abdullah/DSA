@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1929-concatenation-of-array](https://github.com/abdullahmeen/DSA/tree/main/1929-concatenation-of-array/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/abdullahmeen/DSA/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2460-apply-operations-to-an-array](https://github.com/abdullahmeen/DSA/tree/main/2460-apply-operations-to-an-array/) | Easy |
+| [3159-find-occurrences-of-an-element-in-an-array](https://github.com/abdullahmeen/DSA/tree/main/LeetCode/Medium/3159-find-occurrences-of-an-element-in-an-array/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -87,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/abdullahmeen/DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0645-set-mismatch](https://github.com/abdullahmeen/DSA/tree/main/LeetCode/Easy/0645-set-mismatch/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/abdullahmeen/DSA/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
+| [3159-find-occurrences-of-an-element-in-an-array](https://github.com/abdullahmeen/DSA/tree/main/LeetCode/Medium/3159-find-occurrences-of-an-element-in-an-array/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |

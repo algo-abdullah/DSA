@@ -7,16 +7,10 @@ class Solution(object):
         intervals.sort()
         ans = []
         n = len(intervals)
-        i = 0
-        while i < n:
-            start = intervals[i][0]
-            end = intervals[i][1]
-            j = i + 1
-            while j < n and intervals[j][0] <= end:
-                end = max(intervals[j][1], end)
-                j = j + 1
-
-            ans.append([start,end])
-            i = j
+        for interval in intervals:
+            if not ans or ans[-1][1] < interval[0]:
+                ans.append(interval)
+            else:
+                ans[-1][1] = max(interval[1] , ans[-1][1])
         return ans
         

@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/abdullahmeen/DSA/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/abdullahmeen/DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/abdullahmeen/DSA/tree/main/0054-spiral-matrix/) | Medium |
+| [0056-merge-intervals](https://github.com/abdullahmeen/DSA/tree/main/LeetCode/Medium/0056-merge-intervals/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/abdullahmeen/DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0118-pascals-triangle](https://github.com/abdullahmeen/DSA/tree/main/LeetCode/Easy/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abdullahmeen/DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -113,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0015-3sum](https://github.com/abdullahmeen/DSA/tree/main/LeetCode/Medium/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/abdullahmeen/DSA/tree/main/LeetCode/Medium/0018-4sum/) | Medium |
+| [0056-merge-intervals](https://github.com/abdullahmeen/DSA/tree/main/LeetCode/Medium/0056-merge-intervals/) | Medium |
 | [0169-majority-element](https://github.com/abdullahmeen/DSA/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/abdullahmeen/DSA/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/abdullahmeen/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -205,4 +207,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/abdullahmeen/DSA/tree/main/0020-valid-parentheses/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/abdullahmeen/DSA/tree/main/1021-remove-outermost-parentheses/) | Easy |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0056-merge-intervals](https://github.com/abdullahmeen/DSA/tree/main/LeetCode/Medium/0056-merge-intervals/) | Medium |
 <!---LeetCode Topics End-->

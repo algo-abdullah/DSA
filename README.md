@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/abdullahmeen/DSA/tree/main/0002-add-two-numbers/) | Medium |
 | [0007-reverse-integer](https://github.com/abdullahmeen/DSA/tree/main/LeetCode/Medium/0007-reverse-integer/) | Medium |
 | [0048-rotate-image](https://github.com/abdullahmeen/DSA/tree/main/0048-rotate-image/) | Medium |
+| [0050-powx-n](https://github.com/abdullahmeen/DSA/tree/main/LeetCode/Medium/0050-powx-n/) | Medium |
 | [0189-rotate-array](https://github.com/abdullahmeen/DSA/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/abdullahmeen/DSA/tree/main/0268-missing-number/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/abdullahmeen/DSA/tree/main/0976-largest-perimeter-triangle/) | Easy |
@@ -193,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/abdullahmeen/DSA/tree/main/0002-add-two-numbers/) | Medium |
+| [0050-powx-n](https://github.com/abdullahmeen/DSA/tree/main/LeetCode/Medium/0050-powx-n/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |

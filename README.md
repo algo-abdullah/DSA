@@ -96,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/abdullahmeen/DSA/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/abdullahmeen/DSA/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/abdullahmeen/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0389-find-the-difference](https://github.com/abdullahmeen/DSA/tree/main/LeetCode/Easy/0389-find-the-difference/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/abdullahmeen/DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0645-set-mismatch](https://github.com/abdullahmeen/DSA/tree/main/LeetCode/Easy/0645-set-mismatch/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/abdullahmeen/DSA/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
@@ -113,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0136-single-number](https://github.com/abdullahmeen/DSA/tree/main/0136-single-number/) | Easy |
 | [0268-missing-number](https://github.com/abdullahmeen/DSA/tree/main/0268-missing-number/) | Easy |
+| [0389-find-the-difference](https://github.com/abdullahmeen/DSA/tree/main/LeetCode/Easy/0389-find-the-difference/) | Easy |
 | [0645-set-mismatch](https://github.com/abdullahmeen/DSA/tree/main/LeetCode/Easy/0645-set-mismatch/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -124,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/abdullahmeen/DSA/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/abdullahmeen/DSA/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/abdullahmeen/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0389-find-the-difference](https://github.com/abdullahmeen/DSA/tree/main/LeetCode/Easy/0389-find-the-difference/) | Easy |
 | [0645-set-mismatch](https://github.com/abdullahmeen/DSA/tree/main/LeetCode/Easy/0645-set-mismatch/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/abdullahmeen/DSA/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/abdullahmeen/DSA/tree/main/1491-average-salary-excluding-the-minimum-and-maximum-salary/) | Easy |
@@ -137,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/abdullahmeen/DSA/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0125-valid-palindrome](https://github.com/abdullahmeen/DSA/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/abdullahmeen/DSA/tree/main/LeetCode/Medium/0151-reverse-words-in-a-string/) | Medium |
+| [0389-find-the-difference](https://github.com/abdullahmeen/DSA/tree/main/LeetCode/Easy/0389-find-the-difference/) | Easy |
 | [0392-is-subsequence](https://github.com/abdullahmeen/DSA/tree/main/0392-is-subsequence/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/abdullahmeen/DSA/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/abdullahmeen/DSA/tree/main/LeetCode/Easy/1768-merge-strings-alternately/) | Easy |

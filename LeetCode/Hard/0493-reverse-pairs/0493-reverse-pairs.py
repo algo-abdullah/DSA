@@ -1,5 +1,5 @@
 def merge(arr, low, mid, high):
-    temp = []  # temporary array
+    temp = []  
     left = low  # starting index of left half of arr
     right = mid + 1  # starting index of right half of arr
 

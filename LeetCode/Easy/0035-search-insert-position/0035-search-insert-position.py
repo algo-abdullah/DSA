@@ -9,12 +9,14 @@ class Solution(object):
         end=len(nums)-1
         while(start<=end):
             mid = start+(end-start)//2
-            if(target==nums[mid]):
-                return mid
-            elif(nums[mid]<target):
-                start =mid+1
+            if(target<=nums[mid]):
+                ans =  mid
+                end=mid-1
+            
+                
             else:
-                end=mid-1       
+                start =mid+1
+                       
             
         
         return start

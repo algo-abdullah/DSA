@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1679-max-number-of-k-sum-pairs](https://github.com/abdullahmeen/DSA/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/abdullahmeen/DSA/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1929-concatenation-of-array](https://github.com/abdullahmeen/DSA/tree/main/1929-concatenation-of-array/) | Easy |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/abdullahmeen/DSA/tree/main/LeetCode/Medium/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/abdullahmeen/DSA/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2460-apply-operations-to-an-array](https://github.com/abdullahmeen/DSA/tree/main/2460-apply-operations-to-an-array/) | Easy |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/abdullahmeen/DSA/tree/main/LeetCode/Medium/3159-find-occurrences-of-an-element-in-an-array/) | Medium |
@@ -199,6 +200,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0860-lemonade-change](https://github.com/abdullahmeen/DSA/tree/main/0860-lemonade-change/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/abdullahmeen/DSA/tree/main/0976-largest-perimeter-triangle/) | Easy |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/abdullahmeen/DSA/tree/main/LeetCode/Medium/2091-removing-minimum-and-maximum-from-array/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |

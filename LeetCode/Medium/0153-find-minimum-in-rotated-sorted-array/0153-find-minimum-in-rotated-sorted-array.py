@@ -4,17 +4,17 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        start = 0
-        end = len(nums)-1
-        
-        while start < end:
-            mid = start + (end -start )//2
-           
+        low = 0
+        high = len(nums) - 1
+        ans = float("inf")
 
-            if nums[mid] > nums[end]:
-                start = mid +1
-            
-            else :
-                end = mid 
-        return nums[start]
+        while low <= high:
+            mid = low + (high - low )//2
+            if nums[low] <= nums[mid]:
+                ans = min(nums[low],ans)
+                low = mid + 1
+            else:
+                ans = min(ans, nums[mid])
+                high = mid - 1
+        return ans
         

@@ -5,6 +5,7 @@ class Solution(object):
         :rtype: int
         """
         low = 0
+        
         high = len(nums) - 1
         ans = float("inf")
 

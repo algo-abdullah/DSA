@@ -5,6 +5,8 @@ class Solution(object):
         :type t: str
         :rtype: str
         """
+
+        
         m = {}
         for i  in range(len(t)):
             

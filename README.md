@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0976-largest-perimeter-triangle](https://github.com/abdullahmeen/DSA/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/abdullahmeen/DSA/tree/main/LeetCode/Easy/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1470-shuffle-the-array](https://github.com/abdullahmeen/DSA/tree/main/1470-shuffle-the-array/) | Easy |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/abdullahmeen/DSA/tree/main/LeetCode/Medium/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/abdullahmeen/DSA/tree/main/1491-average-salary-excluding-the-minimum-and-maximum-salary/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/abdullahmeen/DSA/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/abdullahmeen/DSA/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
@@ -130,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0540-single-element-in-a-sorted-array](https://github.com/abdullahmeen/DSA/tree/main/LeetCode/Medium/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/abdullahmeen/DSA/tree/main/0704-binary-search/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/abdullahmeen/DSA/tree/main/LeetCode/Medium/0875-koko-eating-bananas/) | Medium |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/abdullahmeen/DSA/tree/main/LeetCode/Medium/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |

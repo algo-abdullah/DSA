@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/abdullahmeen/DSA/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/abdullahmeen/DSA/tree/main/0283-move-zeroes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/abdullahmeen/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0410-split-array-largest-sum](https://github.com/abdullahmeen/DSA/tree/main/LeetCode/Hard/0410-split-array-largest-sum/) | Hard |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/abdullahmeen/DSA/tree/main/LeetCode/Easy/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/abdullahmeen/DSA/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0493-reverse-pairs](https://github.com/abdullahmeen/DSA/tree/main/LeetCode/Hard/0493-reverse-pairs/) | Hard |
@@ -132,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abdullahmeen/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0268-missing-number](https://github.com/abdullahmeen/DSA/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/abdullahmeen/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0410-split-array-largest-sum](https://github.com/abdullahmeen/DSA/tree/main/LeetCode/Hard/0410-split-array-largest-sum/) | Hard |
 | [0493-reverse-pairs](https://github.com/abdullahmeen/DSA/tree/main/LeetCode/Hard/0493-reverse-pairs/) | Hard |
 | [0540-single-element-in-a-sorted-array](https://github.com/abdullahmeen/DSA/tree/main/LeetCode/Medium/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/abdullahmeen/DSA/tree/main/0704-binary-search/) | Easy |
@@ -186,6 +188,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abdullahmeen/DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/abdullahmeen/DSA/tree/main/LeetCode/Medium/0152-maximum-product-subarray/) | Medium |
 | [0392-is-subsequence](https://github.com/abdullahmeen/DSA/tree/main/0392-is-subsequence/) | Easy |
+| [0410-split-array-largest-sum](https://github.com/abdullahmeen/DSA/tree/main/LeetCode/Hard/0410-split-array-largest-sum/) | Hard |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -219,12 +222,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0410-split-array-largest-sum](https://github.com/abdullahmeen/DSA/tree/main/LeetCode/Hard/0410-split-array-largest-sum/) | Hard |
 | [0860-lemonade-change](https://github.com/abdullahmeen/DSA/tree/main/0860-lemonade-change/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/abdullahmeen/DSA/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/abdullahmeen/DSA/tree/main/LeetCode/Medium/2091-removing-minimum-and-maximum-from-array/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0410-split-array-largest-sum](https://github.com/abdullahmeen/DSA/tree/main/LeetCode/Hard/0410-split-array-largest-sum/) | Hard |
 | [0560-subarray-sum-equals-k](https://github.com/abdullahmeen/DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |

@@ -19,7 +19,6 @@ class Solution(object):
         low = max(a)  # largest element
         high = sum(a)  # sum of all elements
 
-        # Binary search
         while low <= high:
             mid = (low + high) // 2
             partitions = self.count_partitions(a, mid)

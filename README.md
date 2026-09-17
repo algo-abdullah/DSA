@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/abdullahmeen/DSA/tree/main/LeetCode/Medium/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/abdullahmeen/DSA/tree/main/LeetCode/Medium/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/abdullahmeen/DSA/tree/main/LeetCode/Easy/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1441-build-an-array-with-stack-operations](https://github.com/abdullahmeen/DSA/tree/main/LeetCode/Medium/1441-build-an-array-with-stack-operations/) | Medium |
 | [1470-shuffle-the-array](https://github.com/abdullahmeen/DSA/tree/main/1470-shuffle-the-array/) | Easy |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/abdullahmeen/DSA/tree/main/LeetCode/Medium/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/abdullahmeen/DSA/tree/main/1491-average-salary-excluding-the-minimum-and-maximum-salary/) | Easy |
@@ -101,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/abdullahmeen/DSA/tree/main/0054-spiral-matrix/) | Medium |
+| [1441-build-an-array-with-stack-operations](https://github.com/abdullahmeen/DSA/tree/main/LeetCode/Medium/1441-build-an-array-with-stack-operations/) | Medium |
 | [1929-concatenation-of-array](https://github.com/abdullahmeen/DSA/tree/main/1929-concatenation-of-array/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/abdullahmeen/DSA/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2460-apply-operations-to-an-array](https://github.com/abdullahmeen/DSA/tree/main/2460-apply-operations-to-an-array/) | Easy |
@@ -200,6 +202,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0094-binary-tree-inorder-traversal](https://github.com/abdullahmeen/DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/abdullahmeen/DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/abdullahmeen/DSA/tree/main/1021-remove-outermost-parentheses/) | Easy |
+| [1441-build-an-array-with-stack-operations](https://github.com/abdullahmeen/DSA/tree/main/LeetCode/Medium/1441-build-an-array-with-stack-operations/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |

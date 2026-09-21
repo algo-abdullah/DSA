@@ -13,6 +13,4 @@ class Solution(object):
                 return [numMap[diff],i]
             numMap[n]= i
         return 
-             
-    
-        
+             #ignore me

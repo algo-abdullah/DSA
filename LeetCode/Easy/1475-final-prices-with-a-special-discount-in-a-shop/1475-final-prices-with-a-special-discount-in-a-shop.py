@@ -13,4 +13,4 @@ class Solution(object):
             dec.append(i)
         
         return [prices[i] - res[i] for i in range(len(prices))]
-        
+        #1

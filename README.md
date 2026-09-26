@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0636-exclusive-time-of-functions](https://github.com/abdullahmeen/DSA/tree/main/LeetCode/Medium/0636-exclusive-time-of-functions/) | Medium |
 | [0645-set-mismatch](https://github.com/abdullahmeen/DSA/tree/main/LeetCode/Easy/0645-set-mismatch/) | Easy |
 | [0704-binary-search](https://github.com/abdullahmeen/DSA/tree/main/0704-binary-search/) | Easy |
+| [0739-daily-temperatures](https://github.com/abdullahmeen/DSA/tree/main/LeetCode/Medium/0739-daily-temperatures/) | Medium |
 | [0860-lemonade-change](https://github.com/abdullahmeen/DSA/tree/main/0860-lemonade-change/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/abdullahmeen/DSA/tree/main/LeetCode/Medium/0875-koko-eating-bananas/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/abdullahmeen/DSA/tree/main/0976-largest-perimeter-triangle/) | Easy |
@@ -207,6 +208,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0144-binary-tree-preorder-traversal](https://github.com/abdullahmeen/DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/abdullahmeen/DSA/tree/main/LeetCode/Medium/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0636-exclusive-time-of-functions](https://github.com/abdullahmeen/DSA/tree/main/LeetCode/Medium/0636-exclusive-time-of-functions/) | Medium |
+| [0739-daily-temperatures](https://github.com/abdullahmeen/DSA/tree/main/LeetCode/Medium/0739-daily-temperatures/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/abdullahmeen/DSA/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1441-build-an-array-with-stack-operations](https://github.com/abdullahmeen/DSA/tree/main/LeetCode/Medium/1441-build-an-array-with-stack-operations/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/abdullahmeen/DSA/tree/main/LeetCode/Easy/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
@@ -302,5 +304,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0739-daily-temperatures](https://github.com/abdullahmeen/DSA/tree/main/LeetCode/Medium/0739-daily-temperatures/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/abdullahmeen/DSA/tree/main/LeetCode/Easy/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 <!---LeetCode Topics End-->
